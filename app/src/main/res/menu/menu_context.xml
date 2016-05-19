@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ligar"
+        android:title="Ligar" />
+
+    <item
+        android:id="@+id/sms"
+        android:title="SMS" />
+
+
+    <item
+        android:id="@+id/mapa"
+        android:title="Achar no mapa" />
+
+    <item
+        android:id="@+id/site"
+        android:title="Navegar no site" />
+
+    <item
+        android:id="@+id/deletar"
+        android:title="Excluir" />
+
+</menu>

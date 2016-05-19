@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"><b>Cadastro</b></string>
+    <string name="name"><b>Nome:</b></string>
+    <string name="phone"><b>Telefone:</b></string>
+    <string name="address"><b>Endereço:</b></string>
+    <string name="site"><b>Site:</b></string>
+    <string name="score"><b>Nota:</b></string>
+    <string name="save"><b>Salvar</b></string>
+
+    <string name="nameHint">João da Silva</string>
+    <string name="phoneHint">(99) 99999-9999</string>
+    <string name="addressHint">Rua ABC, 123</string>
+    <string name="siteHint">www.dominio.com</string>
+    <string name="title_activity_mostra_aluno">Map</string>
+
+</resources>
